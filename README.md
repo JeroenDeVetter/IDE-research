@@ -1,36 +1,39 @@
-# IDE-research
-Which IDE will I use
+# Which IDE will I use
 
-<br>Brackets: http://brackets.io/</br>
+[Brackets](https://www.google.com)
 
-Brackets pros {
+**pross**
+{
 
-Built-in browser live-updating
+
+*Built-in browser live-updating
 Brackets will automatically refresh the browser and load the latest saved version of a file open in the browser. This works with php as well. 
-Editing a css will even highlight the tag that's currently being worked on. However, it only works with Chrome.
+Editing a css will even highlight the tag that's currently being worked on. However, it only works with Chrome.*
 
-- Lightweight
-Brackets is easy on memory usage and it starts up quickly.
+- *Lightweight*
+*Brackets is easy on memory usage and it starts up quickly.*
 
 
-- Drag and drop support
-Brackets supports drag and drop of text, as well as multi / rectangular selection.
+- *Drag and drop support*
+*Brackets supports drag and drop of text, as well as multi / rectangular selection.*
+
 
 }
 
-Cons {
+**Cons**
+{
 
-- Problematic updater
-Though the website says there is an update available, the updater in Brackets may give you an error, resulting in you having to download updates manually.
+- *Problematic updater*
+*Though the website says there is an update available, the updater in Brackets may give you an error, resulting in you having to download updates manually.*
 
-- Supports only web languages by default <but>
-Brackets is built for web development and that's where it excels at out of the box. Other languages that have a CodeMirror mode can be added as well.
-<and language support plugins can be added>
+- *Supports only web languages by default
+*Brackets is built for web development and that's where it excels at out of the box. Other languages that have a CodeMirror mode can be *added as well.
+*<and language support plugins can be added>*
 
-- Some gaps have to be filled by plugins, while these features should be built in.
-For example:
+- *Some gaps have to be filled by plugins, while these features should be built in.
+*For example:
 
-Jump to matching brace (bracket / parenthesis);
+*Jump to matching brace (bracket / parenthesis);
 Gutter selection of lines;
 Recall previous searches / replacements;
 Autofill of search field with text under caret (text has to be selected);
@@ -41,5 +44,3 @@ and some more.
 }
 
 ![Het Eiland](https://upload.wikimedia.org/wikipedia/commons/a/af/Bedarra_Island_aerial.jpg)
-
->Depresso: The feeling you get when you run out of coffee
