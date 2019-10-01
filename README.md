@@ -1,7 +1,7 @@
 # IDE-research
 Which IDE will I use
 
-<br>Brackets: http://brackets.io/</br>
+Brackets: http://brackets.io/
 
 Brackets pros {
 
@@ -38,4 +38,8 @@ Show whitespace / end of lines / indentation guides / right margin;
 Selection to upper / lower case;
 and some more.
 
+-You need to use a plugin to use the gethub repozitories 
+
 }
+
+
