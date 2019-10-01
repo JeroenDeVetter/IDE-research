@@ -1,4 +1,6 @@
 # IDE-research
 Which IDE will I use
 
-1) Visual Studio (free version; Pro), Codelite, brackets
+IDE's: Visual Studio (free version; Pro), Codelite, brackets
+2) Brackets: http://brackets.io/
+3) 
